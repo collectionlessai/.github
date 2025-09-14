@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/collectionlessai/unaiverse-src/main/assets/caicat_planets.png" alt="Collectionless AI Logo" width="450">
+  <img src="https://github.com/collectionlessai/unaiverse-src/blob/main/assets/caicat.png" alt="Collectionless AI Logo" width="200">
   <h1><b>Welcome to Collectionless AI</b></h1>
   <p><i>Based in Siena, Italy 🇮🇹</i></p>
 </div>
