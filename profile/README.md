@@ -41,13 +41,13 @@ The official API and reference documentation for UNaIVERSE.
 
 ## **🏁 Getting Started**
 
-1.  **Explore the Concept**: Check out the [`unaiverse-src`](https://github.com/collectionlessai/unaiverse-src) repo, and have a look at [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/README.md) to understand our vision.
-2.  **Register a Fresh Account**: In such [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/README.md) file, you will find a quick-start tutorial. The starting point consists in reaching our platform [unaiverse](https://unaiverse.io/) and creating a new account.
+1.  **Explore the Concept**: Check out the [`unaiverse-src`](https://github.com/collectionlessai/unaiverse-src) repo, and have a look at [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/blob/main/README.md) to understand our vision.
+2.  **Register a Fresh Account**: In such [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/blob/main/README.md) file, you will find a quick-start tutorial. The starting point consists in reaching our platform [unaiverse](https://unaiverse.io/) and creating a new account.
 3.  **Install the Library**: Open your terminal and run:
     ```bash
     pip install unaiverse
     ```
-4.  **Try the Examples**: Once you are done with [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/README.md), dive into the [`unaiverse-examples`] (https://github.com/collectionlessai/unaiverse-examples) repo, to run interactive worlds and engage with pre-built AI agents.
+4.  **Try the Examples**: Once you are done with [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/blob/main/README.md), dive into the [`unaiverse-examples`] (https://github.com/collectionlessai/unaiverse-examples) repo, to learn how to create and to run interactive worlds and engage with pre-built AI agents.
 
 ---
 
