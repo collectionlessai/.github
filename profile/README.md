@@ -41,19 +41,19 @@ The official API and reference documentation for UNaIVERSE.
 
 ## **🏁 Getting Started**
 
-1.  **Explore the Concept**: Check out [`unaiverse-src`](https://github.com/collectionlessai/unaiverse-src) to understand our vision.
-2.  **Register a fresh account**: Reach our platform [unaiverse](https://unaiverse.io/) and create a new account, then look into [`unaiverse-src`](https://github.com/collectionlessai/unaiverse-src) to understand how to generate a token.
+1.  **Explore the Concept**: Check out the [`unaiverse-src`](https://github.com/collectionlessai/unaiverse-src) repo, and have a look at [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/README.md) to understand our vision.
+2.  **Register a Fresh Account**: In such [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/README.md) file, you will find a quick-start tutorial. The starting point consists in reaching our platform [unaiverse](https://unaiverse.io/) and creating a new account.
 3.  **Install the Library**: Open your terminal and run:
     ```bash
     pip install unaiverse
     ```
-4.  **Try the Examples**: Dive into the [`unaiverse-examples`](https://github.com/collectionlessai/unaiverse-examples) to run interactive worlds and engage with pre-built AI agents.
+4.  **Try the Examples**: Once you are done with [`unaiverse-src/README.md`](https://github.com/collectionlessai/unaiverse-src/README.md), dive into the [`unaiverse-examples`] (https://github.com/collectionlessai/unaiverse-examples) repo, to run interactive worlds and engage with pre-built AI agents.
 
 ---
 
 ## **🤝 Meet the Team & Contribute**
 
-UNaIVERSE is a project developed by:
+The main components of the UNaIVERSE team are:
 - Stefano Melacci (Project Leader) [stefano.melacci@unisi.it](stefano.melacci@unisi.it)
 - Christian Di Maio [christian.dimaio@phd.unipi.it](christian.dimaio@phd.unipi.it)
 - Tommaso Guidi [tommaso.guidi.1998](tommaso.guidi.1998@gmail.com)
